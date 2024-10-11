@@ -1,0 +1,39 @@
+.landing-img-1{
+    background-image: url(../img/landing1.svg);
+    width: 500px;
+    height: 482px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.landing-img-2{
+    background-image: url(../img/Diagrama.svg);
+    width: 1200px;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+
+
+.btn-primary {
+    color: #000000 !important;
+    background-color: #FFD600;
+    border: #FFD600 1px solid;
+}
+
+.btn-primary:hover {
+    color: #000000 !important;
+    background-color: #FFDC26;
+    border: #FFDC26 1px solid;
+}
+
+.nav-link {
+    color: #575757 !important;
+}
+
+.nav-link:hover {
+    color: #323232 !important;
+}

@@ -1,0 +1,143 @@
+{
+    "comunidade-x": {
+      "nome": "Comunidade X",
+      "localizacao": "São Paulo, SP",
+      "imagem": "../img/comunidade-x.svg",
+      "numDoadores": 150,
+      "numDoacoes": 1500,
+      "conquistas": [
+        {
+          "titulo": "Heróis",
+          "descricao": "Ajudaram +100 famílias!"
+        }
+      ],
+      "atividades": [
+        {
+          "tempo": "Há 2 horas",
+          "mensagem": "Recebemos uma nova leva de doações e esperamos que elas ajudem muitas pessoas!",
+          "imagens": [
+            "../img/avocado-svg.svg",
+            "../img/tomato-svg.svg",
+            "../img/banana-svg.svg",
+            "../img/papaya-svg.svg"
+          ]
+        }
+      ]
+    },
+    "comunidade-y": {
+      "nome": "Comunidade do RJ",
+      "localizacao": "Rio de Janeiro, RJ",
+      "imagem": "../img/comunidade-rj.jpeg",
+      "numDoadores": 200,
+      "numDoacoes": 2000,
+      "conquistas": [
+        {
+          "titulo": "Superação",
+          "descricao": "Superaram a meta de doações em 50%!"
+        }
+      ],
+      "atividades": [
+        {
+          "tempo": "Há 1 dia",
+          "mensagem": "Organizamos um evento de distribuição de alimentos para 50 famílias!",
+          "imagens": [
+            "../img/banana-svg.svg",
+            "../img/avocado-svg.svg",
+             "../img/papaya-svg.svg"
+          ]
+        }
+      ]
+    },
+    "comunidade-z": {
+      "nome": "Comunidade Aglomerado da Serra",
+      "localizacao": "Belo Horizonte, MG",
+      "imagem": "../img/aglomerado-da-serra-bh.jpg",
+      "numDoadores": 100,
+      "numDoacoes": 1000,
+      "conquistas": [
+        {
+          "titulo": "Inovadores",
+          "descricao": "Implementaram um sistema de entrega de doações!"
+        }
+      ],
+      "atividades": [
+        {
+          "tempo": "Há 3 dias",
+          "mensagem": "Iniciamos nossa campanha de arrecadação de alimentos não perecíveis!",
+          "imagens": [
+             "../img/banana-svg.svg",
+            "../img/avocado-svg.svg"
+          ]
+        }
+      ]
+    },
+    "comunidade-w": {
+      "nome": "Comunidade Aglomerado da Serra",
+      "localizacao": "Belo Horizonte, MG",
+      "imagem": "../img/aglomerado-da-serra-bh.jpg",
+      "numDoadores": 100,
+      "numDoacoes": 1000,
+      "conquistas": [
+        {
+          "titulo": "Inovadores",
+          "descricao": "Implementaram um sistema de entrega de doações!"
+        }
+      ],
+      "atividades": [
+        {
+          "tempo": "Há 3 dias",
+          "mensagem": "Iniciamos nossa campanha de arrecadação de alimentos não perecíveis!",
+          "imagens": [
+             "../img/banana-svg.svg"
+          ]
+        }
+      ]
+    },
+    "comunidade-a": {
+      "nome": "Comunidade A",
+      "localizacao": "Belo Horizonte, MG",
+      "imagem": "../img/aglomerado-da-serra-bh.jpg",
+      "numDoadores": 100,
+      "numDoacoes": 1000,
+      "conquistas": [
+        {
+          "titulo": "Inovadores",
+          "descricao": "Implementaram um sistema de entrega de doações!"
+        }
+      ],
+      "atividades": [
+        {
+          "tempo": "Há 3 dias",
+          "mensagem": "Iniciamos nossa campanha de arrecadação de alimentos não perecíveis!",
+          "imagens": [
+             "../img/banana-svg.svg"
+          ]
+        }
+      ]
+    },
+    "comunidade-b": {
+      "nome": "Comunidade B",
+      "localizacao": "São Paulo, SP",
+      "imagem": "../img/comunidade-x.svg",
+      "numDoadores": 150,
+      "numDoacoes": 1500,
+      "conquistas": [
+        {
+          "titulo": "Heróis",
+          "descricao": "Ajudaram +100 famílias!"
+        }
+      ],
+      "atividades": [
+        {
+          "tempo": "Há 2 horas",
+          "mensagem": "Recebemos uma nova leva de doações e esperamos que elas ajudem muitas pessoas!",
+          "imagens": [
+            "../img/avocado-svg.svg",
+            "../img/tomato-svg.svg",
+            "../img/banana-svg.svg",
+            "../img/papaya-svg.svg"
+          ]
+        }
+      ]
+    }    
+  }
